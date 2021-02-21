@@ -1,0 +1,19 @@
+
+7
+pom.xml,4/4/442292b8a7efeabbe4cc176709b833b1792140ec
+G
+src/main/java/Main.java,e/4/e44a8606ce010ad9b89aafdfcee2ab49afbf6d10
+X
+(src/main/java/a_basics/package-info.java,d/1/d1db3bb8409fa86d904b39fed69eb7b778689db0
+U
+%src/main/java/a_basics/AsyncDemo.java,5/6/564fa450b3c346f8036765eb9e963b1cdd86cdeb
+_
+/src/main/java/b_pipelinesoftasks/Pipelines.java,2/5/259492faf60d9ca8effc8fc6ea08120228f33c34
+Z
+*src/main/java/b_pipelinesoftasks/User.java,7/0/70bbe5c168bf72361172978fef90cbe59020545a
+b
+2src/main/java/b_pipelinesoftasks/AsyncExample.java,d/4/d4f0456f0eeed373811bf5fb9422887dec6390b0
+P
+ src/main/java/a_basics/Temp.java,7/b/7b3318150c625c539b30eab4ef406d597fe51977
+R
+"src/main/java/a_basics/Basics.java,6/5/650434f37e88140906ed2a7685124d1bb632372c
